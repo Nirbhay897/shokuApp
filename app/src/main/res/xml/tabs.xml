@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tab xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tab
+        drawable="@drawable/ic_delivery"
+        text="@string/deli" />
+
+    <tab
+        drawable="@drawable/ic_history"
+        text="@string/history" />
+
+    <tab
+        drawable="@drawable/ic_account"
+        text="@string/account" />
+
+</Tab>

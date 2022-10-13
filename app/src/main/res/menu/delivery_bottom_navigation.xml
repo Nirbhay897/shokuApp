@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed"
+        android:title="Feed"
+        android:icon="@drawable/ic_feed"
+        />
+
+    <item
+        android:id="@+id/payout"
+        android:icon="@drawable/ic_payout"
+        android:title="Payout"
+        />
+
+    <item
+        android:id="@+id/gigs"
+        android:icon="@drawable/ic_gigs"
+        android:title="Gigs"
+        />
+    <item
+        android:id="@+id/deposit"
+        android:icon="@drawable/ic_deposit"
+        android:title="Deposit"
+        />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/ic_more"
+        android:title="More"
+        />
+
+
+</menu>

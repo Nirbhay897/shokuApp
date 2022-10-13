@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Shoku/app/src/main/res/drawable/about_bg.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/add_item_bg.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/bag_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/book_gigs_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/delivered_orders_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ditance_time_bg.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/edit_profile_bg.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/gigs_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/gigs_detail_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_add_location.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_arrow.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_arrow_up.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_camera.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_gigs.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_heart.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_like.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_location.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_location2.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_offiline.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_search.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_share.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/ic_star.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/like_view_bg.xml" value="0.152" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/order_earning_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/pay_by_upi_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/performance_view_bg.xml" value="0.2075" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/search_bg.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/sign_up_bg_btn.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/star_rating_bg.xml" value="0.16" />
+        <entry key="..\:/Shoku/app/src/main/res/drawable/star_tv_bg.xml" value="0.1535" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_customer.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_deelivery_partner.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_delivery_partner.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_reastaurants_food_list.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_restaurant_partner.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_restaurants_partner.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/food_item_rv.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_account.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_daily.xml" value="0.33" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_delivery.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_deposit.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_feed.xml" value="0.5" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_food_bottom_sheet.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_gigs.xml" value="0.25" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_history.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_insights.xml" value="0.25" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_menu.xml" value="0.5" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_monthly.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_more.xml" value="0.22" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_payout.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/fragment_weekly.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/restaurant_food_rv.xml" value="0.18" />
+        <entry key="..\:/Shoku/app/src/main/res/layout/restaurant_menu_rv.xml" value="0.5" />
+        <entry key="..\:/Shoku/app/src/main/res/menu/delivery_bottom_navigation.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/menu/delivery_menu_item.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/menu/restaurants_bottom_navigation.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/menu/restaurants_menu_item.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/xml/tabs.xml" value="0.2" />
+        <entry key="..\:/Shoku/app/src/main/res/xml/xmal.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

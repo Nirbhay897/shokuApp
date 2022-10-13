@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Shoku</string>
+
+
+    <string name="delivery">Delivery Partner</string>
+    <string name="restaurants">Restaurants Partner</string>
+    <string name="customer">Customer</string>
+
+
+    // tabs name
+    <string name="history">History</string>
+    <string name="account">Account</string>
+    <string name="deli">Delivery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">Location</string>
+    <string name="narela">Narela</string>
+    <string name="searchHint">Restaurant name or a dish.....</string>
+    <string name="userName">Jhunjhunwala</string>
+    <string name="view_profile">View Profile</string>
+    <string name="about">About</string>
+    <string name="feedback">Send Feedback</string>
+    <string name="logout">Log out</string>
+    <string name="likes">Likes</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="payment">Payment</string>
+    <string name="search_menu">Search menu</string>
+    <string name="akshat_dhaba">Akshat Dhaba</string>
+    <string name="fast_food_south_indian">Fast Food, South Indian</string>
+    <string name="narela_new_delhi">Narela , New Delhi</string>
+    <string name="time">20</string>
+    <string name="min">min</string>
+    <string name="_4">4</string>
+    <string name="km_away">km away</string>
+    <string name="add">ADD</string>
+    <string name="plus">+</string>
+    <string name="add1">ADD</string>
+    <string name="minus">-</string>
+    <string name="chole_bhature">Chole Bhature</string>
+    <string name="_54">54</string>
+    <string name="reviews">reviews</string>
+    <string name="a_delicious_desert_made_from">A delicious desert made from...</string>
+    <string name="_100">100</string>
+    <string name="rupee_mark">₹</string>
+    <string name="roti_sabji">Roti Sabji</string>
+    <string name="add_item">Add Item ₹</string>
+    <string name="_1">1</string>
+    <string name="offline">Offline</string>
+    <string name="today">Today :</string>
+    <string name="september">Sep</string>
+    <string name="perfomance">Perfomance for Today</string>
+    <string name="trips">trips</string>
+    <string name="login_hours">login hours</string>
+    <string name="orders">orders</string>
+    <string name="order_earning">Order Earning</string>
+    <string name="earnings_per_order">earnings per order</string>
+    <string name="delivery_boy_name">Akshat</string>
+    <string name="delivery_boy_id">FE834377</string>
+    <string name="phone">Phone :</string>
+    <string name="phone_no">5634247845</string>
+    <string name="zone">Zone :</string>
+    <string name="book_gigs">Book gigs to deliver orders</string>
+    <string name="gigs">Book Gigs</string>
+
+
+</resources>
